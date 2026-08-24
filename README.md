@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  IT undergrad at <b>VIT Vellore</b> — I build backend systems in Go, AI agents, and ML-driven security tooling.
+  IT undergrad at <b>VIT Vellore</b>. I build backend systems in Go, AI agents, and ML-driven security tooling.
 </p>
 
 <p align="center">
@@ -17,8 +17,8 @@
 
 ### 🧭 About me
 
-- 🐹 **Go** is my main language — CLIs, backend services, and low-level Linux tooling
-- 🤖 I build **AI agents** — tool-calling loops, orchestration, and LLM-backed automation
+- 🐹 **Go** is my main language, used for CLIs, backend services, and low-level Linux tooling
+- 🤖 I build **AI agents** with tool-calling loops, orchestration, and LLM-backed automation
 - 🌐 Backend on **Express.js / Node.js**, with TypeScript on the front
 - 🛡️ Recurring theme in my work: **fraud detection, anomaly scoring, and system observability**
 - 🌱 Currently going deeper on distributed systems, AWS serverless, and performance profiling
