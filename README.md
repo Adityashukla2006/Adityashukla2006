@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aditya Shukla 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Go+Backend+%26+Systems+Engineer;AI+Agent+Builder;Express.js+%2F+Node.js+Developer;ML+for+Fraud+%26+Anomaly+Detection&font=Fira+Code&size=22&color=58A6FF&center=true&vCenter=true&width=520&height=45&pause=1000" alt="what I do"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Go+Backend+%26+Systems+Engineer;AI+Agent+Builder;Express.js+%2F+Node.js+Developer&font=Fira+Code&size=22&color=58A6FF&center=true&vCenter=true&width=520&height=45&pause=1000" alt="what I do"/>
 </p>
 
 <p align="center">
