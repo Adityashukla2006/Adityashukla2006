@@ -49,7 +49,7 @@
 
 ---
 
-### 🐍 Watch the Snake Eat My Commits
+### 🐍 Contribution Snake
 
 <p align="center">
   <picture>
