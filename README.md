@@ -37,34 +37,6 @@
 
 ---
 
-### 🚀 What I've Built
-
-**🩺 [hcli](https://github.com/Adityashukla2006/hcli-tool)** &nbsp;·&nbsp; `Go`
-
-A Linux health & triage CLI. It reads kernel state straight from `/proc` and `/sys`, then correlates the raw metrics into **ranked root-cause hypotheses** — catching, for example, that your high I/O wait is actually memory exhaustion. Ships evidence and an embedded runbook with every finding. Single static binary, zero third-party dependencies, machine-readable JSON output.
-
-**💳 [Credit Card Fraud Detection](https://github.com/Adityashukla2006/creditcard-fraud)** &nbsp;·&nbsp; `XGBoost` `scikit-learn` `Streamlit`
-
-Real-time and batch transaction scoring behind a Streamlit UI, tuned with class weighting to handle the brutal class imbalance that makes fraud data hard.
-
-**⚙️ [c-compiler](https://github.com/Adityashukla2006/c-compiler)** &nbsp;·&nbsp; `C`
-
-A C compiler visualizer that exposes the output of **every compilation phase**, from lexing through code generation.
-
-**🔔 [notification-system](https://github.com/Adityashukla2006/notification-system)** &nbsp;·&nbsp; `Go`
-
-Notification delivery service built in Go.
-
-**🔥 [hotreload-cli](https://github.com/Adityashukla2006/hotreload-cli)** &nbsp;·&nbsp; `Go`
-
-Hot-reload developer tooling for tight local iteration loops.
-
-**🗣️ [translation-chat-app](https://github.com/Adityashukla2006/translation-chat-app)** &nbsp;·&nbsp; `TypeScript`
-
-Chat with live message translation, paired with a companion [voice translation API](https://github.com/Adityashukla2006/voice-translation-api).
-
----
-
 ### 📈 Contribution Activity
 
 <p align="center">
@@ -73,6 +45,18 @@ Chat with live message translation, paired with a companion [voice translation A
 
 <p align="center">
   <img src="https://ghchart.rshah.org/58a6ff/Adityashukla2006" alt="contribution chart" width="100%"/>
+</p>
+
+---
+
+### 🐍 Watch the Snake Eat My Commits
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adityashukla2006/Adityashukla2006/output/snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adityashukla2006/Adityashukla2006/output/snake.svg"/>
+    <img src="https://raw.githubusercontent.com/Adityashukla2006/Adityashukla2006/output/snake.svg" alt="contribution snake animation" width="100%"/>
+  </picture>
 </p>
 
 ---
