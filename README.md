@@ -77,8 +77,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Adityashukla2006&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityashukla2006&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adityashukla2006&theme=github_dark" alt="github stats"/>
+</p>
+
+<p align="center">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adityashukla2006&theme=github_dark" alt="repos per language"/>
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adityashukla2006&theme=github_dark" alt="most commit language"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adityashukla2006&theme=github_dark&utcOffset=5.5" alt="productive time"/>
 </p>
 
 <p align="center">
