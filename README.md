@@ -1,7 +1,11 @@
 <h1 align="center">Hi, I'm Aditya Shukla 👋</h1>
 
 <p align="center">
-  IT undergrad at <b>VIT Vellore</b> · I build systems tooling in Go and ML-driven security projects in Python.
+  <img src="https://readme-typing-svg.demolab.com/?lines=Go+Backend+%26+Systems+Engineer;AI+Agent+Builder;Express.js+%2F+Node.js+Developer;ML+for+Fraud+%26+Anomaly+Detection&font=Fira+Code&size=22&color=58A6FF&center=true&vCenter=true&width=520&height=45&pause=1000" alt="what I do"/>
+</p>
+
+<p align="center">
+  IT undergrad at <b>VIT Vellore</b> — I build backend systems in Go, AI agents, and ML-driven security tooling.
 </p>
 
 <p align="center">
@@ -13,52 +17,51 @@
 
 ### 🧭 About me
 
-- 🔭 Currently building **low-level Linux diagnostics and backend services in Go**
-- 🧠 Researching **behavioural biometrics** — continuous authentication from keystroke dynamics
+- 🐹 **Go** is my main language — CLIs, backend services, and low-level Linux tooling
+- 🤖 I build **AI agents** — tool-calling loops, orchestration, and LLM-backed automation
+- 🌐 Backend on **Express.js / Node.js**, with TypeScript on the front
 - 🛡️ Recurring theme in my work: **fraud detection, anomaly scoring, and system observability**
-- 🌱 Learning distributed systems, AWS serverless architecture, and performance profiling
-- 💬 Ask me about **Go CLIs, `/proc` internals, XGBoost on imbalanced data, or serverless on the free tier**
-- 📫 Reach me at **shukla.aditya2006@gmail.com**
+- 🌱 Currently going deeper on distributed systems, AWS serverless, and performance profiling
+- 💬 Ask me about **Go CLIs, `/proc` internals, agent design, Express APIs, or XGBoost on imbalanced data**
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages**
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-
-**ML & Data**
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EB0F00?style=flat-square&logo=xgboost&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-**Infra & Tools**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,python,ts,js,nodejs,express,react,c&theme=dark" alt="languages and frameworks"/>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,mongodb,postgres,sklearn&theme=dark" alt="infra and tools"/>
+</p>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 What I've Built
 
-| Project | What it does | Stack |
-|---|---|---|
-| **[hcli](https://github.com/Adityashukla2006/hcli-tool)** | Linux health & triage CLI. Reads kernel state from `/proc` and `/sys`, correlates raw metrics into **ranked root-cause hypotheses** with evidence and embedded runbooks — e.g. spotting that high I/O wait is really memory exhaustion. Single static binary, zero third-party deps, JSON output. | `Go 1.22` |
-| **[Behavioural Biometrics Fraud Detection](https://github.com/Adityashukla2006/personal-fraud-detection-using-behavioural-biometrics)** | Serverless continuous authentication for banking using **keystroke dynamics**. Scores every typing sequence for anomalies instead of trusting a one-time login — plus research on *profile poisoning* attacks against adaptive models. Runs entirely on the AWS always-free tier. | `Lambda` `DynamoDB` `API Gateway` `Python` |
-| **[Credit Card Fraud Detection](https://github.com/Adityashukla2006/creditcard-fraud)** | Streamlit app for single-transaction and batch CSV fraud scoring, built on XGBoost with class-weight tuning for heavily imbalanced data. | `XGBoost` `scikit-learn` `Streamlit` |
-| **[c-compiler](https://github.com/Adityashukla2006/c-compiler)** | A C compiler visualizer that surfaces the output of **each compilation phase** — lexing through code generation. | `C` |
-| **[notification-system](https://github.com/Adityashukla2006/notification-system)** | Notification delivery service written in Go. | `Go` |
-| **[hotreload-cli](https://github.com/Adityashukla2006/hotreload-cli)** | Hot-reload developer tooling for fast local iteration. | `Go` |
+**🩺 [hcli](https://github.com/Adityashukla2006/hcli-tool)** &nbsp;·&nbsp; `Go`
+
+A Linux health & triage CLI. It reads kernel state straight from `/proc` and `/sys`, then correlates the raw metrics into **ranked root-cause hypotheses** — catching, for example, that your high I/O wait is actually memory exhaustion. Ships evidence and an embedded runbook with every finding. Single static binary, zero third-party dependencies, machine-readable JSON output.
+
+**💳 [Credit Card Fraud Detection](https://github.com/Adityashukla2006/creditcard-fraud)** &nbsp;·&nbsp; `XGBoost` `scikit-learn` `Streamlit`
+
+Real-time and batch transaction scoring behind a Streamlit UI, tuned with class weighting to handle the brutal class imbalance that makes fraud data hard.
+
+**⚙️ [c-compiler](https://github.com/Adityashukla2006/c-compiler)** &nbsp;·&nbsp; `C`
+
+A C compiler visualizer that exposes the output of **every compilation phase**, from lexing through code generation.
+
+**🔔 [notification-system](https://github.com/Adityashukla2006/notification-system)** &nbsp;·&nbsp; `Go`
+
+Notification delivery service built in Go.
+
+**🔥 [hotreload-cli](https://github.com/Adityashukla2006/hotreload-cli)** &nbsp;·&nbsp; `Go`
+
+Hot-reload developer tooling for tight local iteration loops.
+
+**🗣️ [translation-chat-app](https://github.com/Adityashukla2006/translation-chat-app)** &nbsp;·&nbsp; `TypeScript`
+
+Chat with live message translation, paired with a companion [voice translation API](https://github.com/Adityashukla2006/voice-translation-api).
 
 ---
 
@@ -74,23 +77,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🔥 Streak
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adityashukla2006&theme=github_dark" alt="github stats"/>
-</p>
-
-<p align="center">
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adityashukla2006&theme=github_dark" alt="repos per language"/>
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adityashukla2006&theme=github_dark" alt="most commit language"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adityashukla2006&theme=github_dark&utcOffset=5.5" alt="productive time"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Adityashukla2006&hide_border=true&theme=tokyonight" alt="contribution streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Adityashukla2006&hide_border=true&theme=tokyonight" alt="current streak"/>
 </p>
 
 ---
